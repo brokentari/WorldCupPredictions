@@ -1,0 +1,7 @@
+# vscode settings
+.vscode/
+.vs/
+
+# packages
+packages/
+random/
